@@ -1,0 +1,1070 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur 42 heures prospection immobiliere",
+    "description": "Formation dédiée aux techniques avancées de prospection immobilière.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-42-heures-prospection-immobiliere/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Pack 42 heures la copropriete",
+    "description": "Pack complet pour maîtriser tous les aspects de la copropriété.",
+    "url": "https://www.maformationimmo.fr/formations/pack-42h-la-copropriete/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Pack 42 heures gestion du patrimoine en immobilier",
+    "description": "Apprenez à gérer efficacement le patrimoine immobilier de vos clients.",
+    "url": "https://www.maformationimmo.fr/formations/pack-42h-gestion-du-patrimoine-en-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur 42 heures conduire la meilleure strategie commerciale",
+    "description": "Développez la meilleure stratégie commerciale pour booster vos ventes.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-42h-conduire-la-meilleure-strategie-commerciale/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Pack 42 heures la gestion locative de a a z",
+    "description": "Formation complète sur la gestion locative, de la recherche de locataire à la gestion des loyers.",
+    "url": "https://www.maformationimmo.fr/formations/pack-42h-la-gestion-locative-de-a-a-z/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Lintelligence artificielle et chatgpt en immobilier",
+    "description": "Découvrez comment l'IA et ChatGPT transforment les pratiques immobilières.",
+    "url": "https://www.maformationimmo.fr/formations/lintelligence-artificielle-et-chatgpt-en-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "La discrimination en immobilier 2",
+    "description": "Comprendre et prévenir les discriminations dans le secteur immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/la-discrimination-en-immobilier-2/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Deontologie immobiliere dnt",
+    "description": "Maîtrisez les règles de déontologie essentielles pour les professionnels de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/deontologie-immobiliere-dnt/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Non discrimination a lacces au logement ndl",
+    "description": "Comprendre et prévenir les discriminations dans le secteur immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/non-discrimination-a-lacces-au-logement-ndl/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur 42 heures les evaluations en immobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-42-heures-les-evaluations-en-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur etre un as en fiscalite immobiliere",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-etre-un-as-en-fiscalite-immobiliere/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Tout savoir sur la gestion locative",
+    "description": "Formation complète sur la gestion locative, de la recherche de locataire à la gestion des loyers.",
+    "url": "https://www.maformationimmo.fr/formations/tout-savoir-sur-la-gestion-locative/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Le logement social de a a z",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/le-logement-social-de-a-a-z/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Lindispensable de lurbanisme",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/lindispensable-de-lurbanisme/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formaton alur le marketing digital de a a z",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formaton-alur-le-marketing-digital-de-a-a-z/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur le mandat de a a z",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-le-mandat-de-a-a-z/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Etre un stratege commercial",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/etre-un-stratege-commercial/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur transaction",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-transaction/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Loi alur gestion locative",
+    "description": "Formation complète sur la gestion locative, de la recherche de locataire à la gestion des loyers.",
+    "url": "https://www.maformationimmo.fr/formations/loi-alur-gestion-locative/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Les bases reglementaires et marketing en anglais",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/les-bases-reglementaires-et-marketing-en-anglais/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Maitriser la prospection et la vente en anglais",
+    "description": "Formation dédiée aux techniques avancées de prospection immobilière.",
+    "url": "https://www.maformationimmo.fr/formations/maitriser-la-prospection-et-la-vente-en-anglais/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur la famille aspect patrimoniaux et immobiliers",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-la-famille-aspect-patrimoniaux-et-immobiliers/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "La discrimination en immobilier",
+    "description": "Comprendre et prévenir les discriminations dans le secteur immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/la-discrimination-en-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Deontologie immobiliere 2",
+    "description": "Maîtrisez les règles de déontologie essentielles pour les professionnels de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/deontologie-immobiliere-2/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Deontologie immobiliere",
+    "description": "Maîtrisez les règles de déontologie essentielles pour les professionnels de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/deontologie-immobiliere/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur les societes commerciales de a a z",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-les-societes-commerciales-de-a-a-z/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Tout savoir sur le viager",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/tout-savoir-sur-le-viager/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur la societe civile immobiliere de a a z",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-la-societe-civile-immobiliere-de-a-a-z/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur etre agent commercial mandataire en immobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-etre-agent-commercial-mandataire-en-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur le webmarteking",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-le-webmarteking/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur tout savoir sur la gestion des conflits",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-tout-savoir-sur-la-gestion-des-conflits/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur tout savoir sur la cession et le fonds de commerce",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-tout-savoir-sur-la-cession-et-le-fonds-de-commerce/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "La gestion des actifs immobiliers",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/la-gestion-des-actifs-immobiliers/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur le bail commercial 2",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-le-bail-commercial-2/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur bien comprendre le credit immobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-bien-comprendre-le-credit-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation sur le renouvellement de votre carte dagent immobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-sur-le-renouvellement-de-votre-carte-dagent-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur location saisonniere",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-location-saisonniere/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur english",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-english/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur manager les risques psychosociaux juridiques en agence immobiliere",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-manager-les-risques-psychosociaux-juridiques-en-agence-immobiliere/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur la copropriete de a jusqua z 2",
+    "description": "Pack complet pour maîtriser tous les aspects de la copropriété.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-la-copropriete-de-a-jusqua-z-2/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur urbanisme niveau 1",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-urbanisme-niveau-1/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur urbanisme niveau 2",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-urbanisme-niveau-2/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur photo",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-photo/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur etre un as en fiscalite niveau 2 la tva immobiliere",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-etre-un-as-en-fiscalite-niveau-2-la-tva-immobiliere/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur prospection immobiliere",
+    "description": "Formation dédiée aux techniques avancées de prospection immobilière.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-prospection-immobiliere/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur gerer les conflits de a a z",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-gerer-les-conflits-de-a-a-z/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur les troubles du voisinage de a a z",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-les-troubles-du-voisinage-de-a-a-z/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur societes commerciales et montages immobiliers",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-societes-commerciales-et-montages-immobiliers/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur le contentieux de la copropriete",
+    "description": "Pack complet pour maîtriser tous les aspects de la copropriété.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-le-contentieux-de-la-copropriete/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur bien rediger les documents societaux statuts cessions de parts",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-bien-rediger-les-documents-societaux-statuts-cessions-de-parts/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur creer son service de copropriete",
+    "description": "Pack complet pour maîtriser tous les aspects de la copropriété.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-creer-son-service-de-copropriete/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur credit immobilier 100pourcent cas pratiques",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-credit-immobilier-100pourcent-cas-pratiques/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur chasseur immobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-chasseur-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur gestion comptable et financiere dans une copropriete",
+    "description": "Pack complet pour maîtriser tous les aspects de la copropriété.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-gestion-comptable-et-financiere-dans-une-copropriete/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Les techniques de communication immobilieres de a a z",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/les-techniques-de-communication-immobilieres-de-a-a-z/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur demembrement indivision avantage matrimonial",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-demembrement-indivision-avantage-matrimonial/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur agent immobilier rural",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-agent-immobilier-rural/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Interview avoir un mindset positif et contagieux",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/interview-avoir-un-mindset-positif-et-contagieux/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Interview linteret de la photographie dans le secteur de limmobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/interview-linteret-de-la-photographie-dans-le-secteur-de-limmobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference pratique de la photographie immobiliere avec un appareil photo et trepied",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-pratique-de-la-photographie-immobiliere-avec-un-appareil-photo-et-trepied/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur real estate training",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-real-estate-training/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Etre un as en transaction en anglais",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/etre-un-as-en-transaction-en-anglais/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference le diagnostic de performance energetique dpe",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-le-diagnostic-de-performance-energetique-dpe/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference le dossier de diagnostic technique ddt",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-le-dossier-de-diagnostic-technique-ddt/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference sur la realisation dune mission de diagnostic de a a z",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-sur-la-realisation-dune-mission-de-diagnostic-de-a-a-z/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference sur la responsabilite professionnelle du diagnostiqueur immobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-sur-la-responsabilite-professionnelle-du-diagnostiqueur-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur la loi elan de a a z",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-la-loi-elan-de-a-a-z/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference sur maitriser linformation immobiliere techniques de synthese et de gestion 2",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-sur-maitriser-linformation-immobiliere-techniques-de-synthese-et-de-gestion-2/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference sur les strategies gagnantes pour une experience client inoubliable",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-sur-les-strategies-gagnantes-pour-une-experience-client-inoubliable/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference sur bien gerer sa charge mentale au travail en tant que professionnel de limmobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-sur-bien-gerer-sa-charge-mentale-au-travail-en-tant-que-professionnel-de-limmobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference communication interpersonnelle disc",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-communication-interpersonnelle-disc/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur gerer de a a z mes salaries en immobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-gerer-de-a-a-z-mes-salaries-en-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference sur bien gerer son temps en tant quagent immobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-sur-bien-gerer-son-temps-en-tant-quagent-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference lutilisation de lintelligence artificielle dans ses communications professionnelles",
+    "description": "Découvrez comment l'IA et ChatGPT transforment les pratiques immobilières.",
+    "url": "https://www.maformationimmo.fr/formations/conference-lutilisation-de-lintelligence-artificielle-dans-ses-communications-professionnelles/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur 7 heures citb niveau 1 technique et ingenierie des immeubles batis",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-7h-citb-niveau-1-technique-et-ingenierie-des-immeubles-batis/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur le numerique et lagent immobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-le-numerique-et-lagent-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur la copropriete de a jusqua z niveau 2",
+    "description": "Pack complet pour maîtriser tous les aspects de la copropriété.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-la-copropriete-de-a-jusqua-z-niveau-2/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur vefa2",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-vefa2/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation loi alur relationclient",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-loi-alur-relationclient/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Formation alur le credit bail immobilier de a a z",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/formation-alur-le-credit-bail-immobilier-de-a-a-z/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference leaders dopinion et strategie dinfluence",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-leaders-dopinion-et-strategie-dinfluence/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference sur lecoute",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-sur-lecoute/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference la gestion dun client difficile mecontent",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-la-gestion-dun-client-difficile-mecontent/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference sur les techniques dinfluence",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-sur-les-techniques-dinfluence/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference sur la posture du vendeur",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-sur-la-posture-du-vendeur/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Conference pratique de la photographie immobiliere avec un smartphone",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/conference-pratique-de-la-photographie-immobiliere-avec-un-smartphone/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Anglaisimmobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/anglaisimmobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Interview le metier de diagnostiqueur immobilier",
+    "description": "Formation spécialisée dans le domaine de l'immobilier.",
+    "url": "https://www.maformationimmo.fr/formations/interview-le-metier-de-diagnostiqueur-immobilier/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Interview lintelligence artificielle ia et la social data",
+    "description": "Découvrez comment l'IA et ChatGPT transforment les pratiques immobilières.",
+    "url": "https://www.maformationimmo.fr/formations/interview-lintelligence-artificielle-ia-et-la-social-data/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Ma Formation Immo",
+      "sameAs": "https://www.maformationimmo.fr"
+    }
+  }
+]
